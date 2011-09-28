@@ -1,0 +1,5 @@
+I wrote this script after I attended a talk where the guy said random natural processes could never create mount rushmore (Arguing for intelligent design in nature). The important thing is not *only* the random processes, but the pressure of natural selection (survival of the fittest). I wanted to write a small program where mount rushmore evolves from random processes *and* natural selection
+
+In the example directory you can see the result of running this script for a few thousand generations. The image of mount rushmore is definetly visible. If I had more time or processors, I could get it arbitrarily close to perfect.
+
+The code is heavily commented, so you should be able to understand how it works. (it is also quite simple)
